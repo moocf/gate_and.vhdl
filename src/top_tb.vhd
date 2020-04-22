@@ -18,7 +18,7 @@ begin
 -- is under test
 DUT: entity work.top port map (x, y, a);
 
-p_init: process (x, y)
+p_init: process
 begin
   -- case 0
   x <= '0';

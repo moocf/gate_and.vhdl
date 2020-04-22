@@ -19,3 +19,7 @@ The AND gate is a basic digital logic gate that implements logical conjunction.
 
 
 ## test
+
+![testbench-file](docs/testbench-file.png)
+
+![simulation](docs/simulation.png)
