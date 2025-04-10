@@ -23,3 +23,4 @@ The AND gate is a basic digital logic gate that implements logical conjunction.
 ![testbench-file](docs/testbench-file.png)
 
 ![simulation](docs/simulation.png)
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/gate_and.vhdl)
